@@ -1,6 +1,8 @@
-# Üdvözöljük a praxis-consulting.hu weboldalon
+# Üdvözöljük weboldalunkon!
 
 Az oldal célja, hogy segítse a praxisokat a pályázatok közötti eligazodásban.
+
+Kollégáink készséggel állnak az Önök rendelkezésére, forduljon hozzájuk bizalommal az alábbi elérhetőségeken!
 
 ## Elérhetőségeink:
 
