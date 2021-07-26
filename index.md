@@ -1,4 +1,4 @@
-# Üdvözöljük a praxis-consulting weboldalon
+# Üdvözöljük a praxis-consulting.hu weboldalon
 
 Az oldal célja, hogy segítse a praxisokat a pályázatok közötti eligazodásban.
 
