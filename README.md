@@ -1,6 +1,8 @@
 # praxis-consulting.hu weboldal
 
-github elérhetőség: [itt](https://pvojnisek.github.io/praxis-consulting.hu/)
+webes elérhetőségek:
+- [github oldal](https://pvojnisek.github.io/praxis-consulting.hu/)
+- [praxis-consulting.hu](http://praxis-consulting.hu)
 
 ## design ötletek
 
