@@ -1,6 +1,6 @@
 # praxis-consulting.hu weboldal
 
-github elérhetőség: [itt](https://pvojnisek.github.com/praxis-consulting.hu)
+github elérhetőség: [itt](https://pvojnisek.github.io/praxis-consulting.hu/)
 
 
 ## Welcome to GitHub Pages
