@@ -2,6 +2,11 @@
 
 github elérhetőség: [itt](https://pvojnisek.github.io/praxis-consulting.hu/)
 
+## design ötletek
+
+[startbootstrap.com](https://startbootstrap.com/?showPro=false)
+
+# Formázási lehetőségek
 
 ## Welcome to GitHub Pages
 
